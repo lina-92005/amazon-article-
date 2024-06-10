@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+ display: flex;
+ border:3px solid #011627;}
+.main{
+    margin-left: 20px;
+}
+
+.title {
+   /* font-weight: lighter;*/
+    color:#000000;
+    
+} 
+
+.main-img {
+  width :300px;
+    box-shadow: 0px 2px 5px lightgray;
+    margin: 10px 20px   ;
+}
+.link {color:#007185;}
+.text{color:#565959;
+    
+}
